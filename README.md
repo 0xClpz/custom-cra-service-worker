@@ -29,4 +29,4 @@ module.exports = function override(config, env){
 
 ### 3. Build as usual :-)
 
-Now just run yarn
+Now just run yarn or npm build and enjoy your custom crafted SW!
